@@ -9,3 +9,8 @@
 ### 5) We are then using the listen to function to make our server application listen to client requests on port no 3000. You can specify any available port over here.
 
 If the command is executed successfully, the following Output will be shown when you run your code in the browser.
+
+## Routes
+
+### http://localhost:3000/Home
+### http://localhost:3000/Products
